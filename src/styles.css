@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: url("https://img.huffingtonpost.es/files/image_480_320/uploads/2022/12/08/639213d48b880.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
